@@ -1,0 +1,15 @@
+/Users/henry/Benteler/src/bin/Debug/net8.0/BentelerInventory
+/Users/henry/Benteler/src/bin/Debug/net8.0/BentelerInventory.deps.json
+/Users/henry/Benteler/src/bin/Debug/net8.0/BentelerInventory.runtimeconfig.json
+/Users/henry/Benteler/src/bin/Debug/net8.0/BentelerInventory.dll
+/Users/henry/Benteler/src/bin/Debug/net8.0/BentelerInventory.pdb
+/Users/henry/Benteler/src/obj/Debug/net8.0/BentelerInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henry/Benteler/src/obj/Debug/net8.0/BentelerInventory.AssemblyInfoInputs.cache
+/Users/henry/Benteler/src/obj/Debug/net8.0/BentelerInventory.AssemblyInfo.cs
+/Users/henry/Benteler/src/obj/Debug/net8.0/BentelerInventory.csproj.CoreCompileInputs.cache
+/Users/henry/Benteler/src/obj/Debug/net8.0/BentelerInventory.sourcelink.json
+/Users/henry/Benteler/src/obj/Debug/net8.0/BentelerInventory.dll
+/Users/henry/Benteler/src/obj/Debug/net8.0/refint/BentelerInventory.dll
+/Users/henry/Benteler/src/obj/Debug/net8.0/BentelerInventory.pdb
+/Users/henry/Benteler/src/obj/Debug/net8.0/BentelerInventory.genruntimeconfig.cache
+/Users/henry/Benteler/src/obj/Debug/net8.0/ref/BentelerInventory.dll
