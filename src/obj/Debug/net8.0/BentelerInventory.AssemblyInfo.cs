@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BentelerInventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aed7b9c97eb808dd7f7ff971230ebc04935021d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6318899ae5f6c2e014558f224cb1ec9f89dc5219")]
 [assembly: System.Reflection.AssemblyProductAttribute("BentelerInventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BentelerInventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
