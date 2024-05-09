@@ -1,0 +1,17 @@
+# Ignore build folders
+bin/
+obj/
+
+# Ignore files related to the IDE and user settings
+*.user
+*.suo
+*.userprefs
+.vs/
+
+# Ignore NuGet Packages
+*.nupkg
+packages/
+
+# Other files and folders to ignore
+.DS_Store
+ReSharper/
